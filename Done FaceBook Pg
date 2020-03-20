@@ -1,0 +1,84 @@
+<html>
+<head><link rel="stylesheet" href="./css/style.css"></head>
+<body >
+
+<div id="first">
+    <h1>facebook</h1>
+</div>
+<div id="second">
+<table >
+    <tr>
+        <td><b>E-mail or phone</b></td>
+        <td><c>password</c></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><input type="email"></td>
+        <td><input type="password"></td>
+        <td><button>Log In</button></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><a>Forget Password?</a></td>
+        <td></td>
+    </tr>
+</table>
+</div>
+<div id="third">
+    <h2>Facebook helps you connect and share with the people in your life.</h2>
+    <img src="./image/facebook.png">
+</div>
+<div id="fourth">
+    <table >
+        <tr>
+            <td colspan="2"><h1>Create an account</h1></td>
+            
+        </tr>
+        <tr>
+            <td colspan="2"><h2>It's quick and easy.</h2></td>
+        </tr>
+        <tr>
+            <td><a><input type="text" placeholder="First name">
+            <input type="text" placeholder="Surname"></a></td>
+        </tr>
+        <tr>
+            <td colspan="2" ><input type="text" placeholder="Mobile number or email address"></td>
+            
+        </tr>
+        <tr>
+            <td class="2"><input type="password" placeholder="New password"></td>
+            
+        </tr>
+       
+        
+            
+              <tr>    
+            <td></td><td></td><td></td>
+            
+             <tr>
+            <td id="r">Gender</td>
+            
+        </tr>
+        <tr>
+            <td><input type="radio">Female
+                <input type="radio">Male
+                <input type="radio">Custom</td>
+        </tr>
+        <tr>
+            <td colspan="2" id="o"><br>By clicking Sign Up, you agree to our Terms, Data Policy and Cookie Policy. You may receive SMS notifications from us and can opt out at any time.</td>
+            
+        </tr>
+        <tr>
+            <td colspan="2" id="i"><button>Sign Up</button></td>
+            
+        </tr>
+        <tr >
+        <td id="x">Create a Page for a celebrity, band or business.</td>    
+
+
+        </tr>
+    </table>   
+
+</div>
+</body>
+</html>
